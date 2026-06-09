@@ -27,7 +27,7 @@ Shipped a complete wallet app supporting 9+ networks — EVM, Bitcoin, WalletCon
 
 ## 🎬 Demo
 
-[▶ Watch 3-minute demo](https://www.youtube.com)
+[▶ Watch 3-minute demo](https://youtu.be/lb4k6PMOd9Q)
 
 ---
 
