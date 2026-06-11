@@ -11,7 +11,7 @@ React Native specialist building production-grade **non-custodial multi-chain wa
 
 ## 💼 Experience
 
-**Moonstake** — React Native Engineer
+**Moonstake** — Senior Mobile Developer / Team Lead → Freelance Maintainer (Feb 2020 – Present)
 
 Moonstake is one of Asia's leading non-custodial wallet platforms. I was responsible for integrating new blockchain networks into the mobile app — shipped support for **50+ chains** including:
 
