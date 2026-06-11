@@ -1,19 +1,32 @@
 # Mobile Crypto Wallet Engineer
+
 ### React Native · TypeScript · Web3
 
 React Native specialist building production-grade **non-custodial multi-chain wallets**.
-Shipped a complete wallet app supporting 9+ networks — EVM, Bitcoin, WalletConnect, DApp browser, NFT.
+8+ years mobile development. Previously at **Moonstake**. Open to contract and full-time remote roles.
 
 📩 Open to **contract** and **full-time remote** roles in Web3 mobile.
 
 ---
 
+## 💼 Experience
+
+**Moonstake** — React Native Engineer
+
+Moonstake is one of Asia's leading non-custodial wallet platforms. I was responsible for integrating new blockchain networks into the mobile app — shipped support for **50+ chains** including:
+
+`Bitcoin` `Ethereum` `Solana` `Cosmos` `Polkadot` `TON` `Aptos` `Avalanche` `Polygon` `BinanceChain` `BinanceSmartChain` `Tron` `Stellar` `Tezos` `Harmony` `Filecoin` `Neo` `Neo3` `EOS` `Cardano` `Dogecoin` `Litecoin` `BitcoinCash` `Dashcoin` `Qtum` `and more`
+
+Each integration covered address derivation, transaction signing, fee estimation, and broadcasting — all handled natively on-device.
+
+---
+
 ## 📱 What I've Shipped
 
-**Multi-Chain Wallet** — Production app, 9+ networks
+**Multi-Chain Wallet** — Personal production app, 9+ networks
 
 | What | How |
-|------|-----|
+| --- | --- |
 | EVM chains (ETH, BSC, Polygon, Avalanche, Arbitrum, Optimism, Base) | Unified adapter via `viem` |
 | Bitcoin | Native UTXO, SegWit, dynamic fee estimation |
 | WalletConnect v2 | Session management, sign requests, deep linking |
@@ -41,4 +54,4 @@ Shipped a complete wallet app supporting 9+ networks — EVM, Bitcoin, WalletCon
 
 ## 📬 Contact
 
-[hqtruc90@gmail.com](mailto:hqtruc90@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tr%E1%BB%B1c-h%C3%A0-qu%E1%BB%91c-8a891194/) · [Telegram](https://t.me/@hqt33)
+<hqtruc90@gmail.com> · [LinkedIn](https://www.linkedin.com/in/tr%E1%BB%B1c-h%C3%A0-qu%E1%BB%91c-8a891194/) · [Telegram](https://t.me/@hqt33)
